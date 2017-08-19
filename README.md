@@ -1,4 +1,4 @@
-#Smple_SQL
+# Simple_SQL
 
 C++과 STL을 공부하면서 배운 지식을 이용하여, Mysql의 기본적인 기능을 구현해 본 프로그램입니다.
 
